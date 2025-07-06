@@ -15,7 +15,7 @@
   
   
   <p align="center">
-    <img src="quickswitch.png" alt="QuickSwitch Panel" width="800" />
+    <img src="quickswitch.png" alt="QuickSwitch Panel" width="1000" />
   </p>
 </div>
 
