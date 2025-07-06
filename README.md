@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/Download%20for%20macOS-0ea5e9?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
   </a>
   
-  <img src="quickswitch.png" alt="QuickSwitch Panel" width="600" />
+  
+  <p align="center">
+    <img src="quickswitch.png" alt="QuickSwitch Panel" width="800" />
+  </p>
 </div>
 
 ## ✨ Features
