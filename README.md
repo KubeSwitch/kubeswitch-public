@@ -10,7 +10,7 @@
   Switch between Kubernetes contexts and namespaces instantly with KubeSwitch. Native macOS menu bar app with QuickSwitch (⌘⇧L). Supports EKS, GKE, AKS, and any K8s cluster.
   
   <a href="https://builds.kubeswitch.com/latest/kubeswitch.dmg">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-0ea5e9?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
+    <img src="https://img.shields.io/badge/Download%20for%20macOS-8b5cf6?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
   </a>
   
   
