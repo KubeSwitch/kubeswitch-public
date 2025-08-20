@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Download%20for%20macOS-8b5cf6?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" />
   </a>
   
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/razvanmac)
+  
   
   <p align="center">
     <img src="quickswitch.png" alt="QuickSwitch Panel" width="1000" />
